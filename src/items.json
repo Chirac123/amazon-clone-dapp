@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Cycle seat",
-      "category": "Cycle",
+      "category": "CYCLE",
       "image": "https://ipfs.io/ipfs/QmdGRbZRXKfBXXSCgYM9R8Gf44XqNqkSuH64Bfiq2m86pD",
       "price": "0.25",
       "rating": 2,
